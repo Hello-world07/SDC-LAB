@@ -1,3 +1,6 @@
 [submodule "Experiment-11_ReactJS_Student-management/student-management"]
 	path = Experiment-11_ReactJS_Student-management/student-management
 	url = https://github.com/Hello-world07/SDC-LAB
+[submodule "Experiment-12_ReactJS_Weather-app/weather-app"]
+	path = Experiment-12_ReactJS_Weather-app/weather-app
+	url = https://github.com/Hello-world07/SDC-LAB
