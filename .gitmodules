@@ -4,3 +4,6 @@
 [submodule "Experiment-12_ReactJS_Weather-app/weather-app"]
 	path = Experiment-12_ReactJS_Weather-app/weather-app
 	url = https://github.com/Hello-world07/SDC-LAB
+[submodule "Experiment-13_ReactJS_Todo-app/todo-app"]
+	path = Experiment-13_ReactJS_Todo-app/todo-app
+	url = https://github.com/Hello-world07/SDC-LAB
